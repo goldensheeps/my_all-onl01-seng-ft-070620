@@ -7,5 +7,5 @@ def my_all?(array)
     block_return_values << yield(array[i])
     i += 1 
   end
-  block_return_values
+ 
 end
